@@ -50,10 +50,10 @@
 :root {
     --background-image: url('/images/backgrounds/nostalk/mainbg.jpg');
     --font-family: 'Ubuntu', sans-serif;
-    --text-color: #fff;
+    --text-color: #c1d7db;
     --background-color: black;
     --border-color1: #000000;
-    --border-color2: #ffffff;
+    --border-color2: #c1d7db;
     --hover-color: #1a1818;
     --text-glow: #000000
 }
